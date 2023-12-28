@@ -26,6 +26,6 @@ You can use it as **an inspiration but not a dependency**.
 
 **IF** you are considering an investment, **DO MORE RESEARCH!** DO NOT blindly consult LLMs.
 
-# TURN ON Discord Developer Mode!
-# PROTECT you privacy when speaking with LLMs!
-# DO NOT LEAK your Discord Token and OpenAI API Key at anytime!
+## TURN ON Discord Developer Mode!
+## PROTECT you privacy when speaking with LLMs!
+## DO NOT LEAK your Discord Token and OpenAI API Key at anytime!
