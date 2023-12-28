@@ -6,14 +6,14 @@ You can use it as a group chat of multiple specialists with your **ceativity** a
 You **DO NOT** need to switch windows to get answers from different perspectives.
 
 ## Instruction
-1. If you want to know the prerequisites on using this project, please read [SoftwareDependencyInstruction.md](https://github.com/AIYouCanSay/AIYouCanSay/blob/7df05ebdeb0fdb89ad56eb0d9e3434bfed5ef0a9/SoftwareDependencyInstruction.md).
-2. If you want to know how to introduce chatbots into Discord as a developer, please read [DiscordBotCreationInstruction.md](https://github.com/AIYouCanSay/AIYouCanSay/blob/7df05ebdeb0fdb89ad56eb0d9e3434bfed5ef0a9/DiscordBotCreationInstruction.md).
-3. If you want to know how to run this project, please read [ProjectRunningInstruction.md](https://github.com/AIYouCanSay/AIYouCanSay/blob/7df05ebdeb0fdb89ad56eb0d9e3434bfed5ef0a9/ProjectRunningInstruction.md).
+1. If you want to know the prerequisites on using this project, please read [SoftwareDependencyInstruction.md](SoftwareDependencyInstruction.md).
+2. If you want to know how to introduce chatbots into Discord as a developer, please read [DiscordBotCreationInstruction.md](DiscordBotCreationInstruction.md).
+3. If you want to know how to run this project, please read [ProjectRunningInstruction.md](ProjectRunningInstruction.md).
 4. If you are interested in use cases, please read:
 
-   (1) Business Scenario: [UseCaseBusinessScenario.md](https://github.com/AIYouCanSay/AIYouCanSay/blob/7df05ebdeb0fdb89ad56eb0d9e3434bfed5ef0a9/UseCaseBusinessScenario.md).
+   (1) Business Scenario: [UseCaseBusinessScenario.md](UseCaseBusinessScenario.md).
 
-   (2) Exercise Scenario: [UseCaseExerciseScenario.md](https://github.com/AIYouCanSay/AIYouCanSay/blob/7df05ebdeb0fdb89ad56eb0d9e3434bfed5ef0a9/UseCaseExerciseScenario.md).
+   (2) Exercise Scenario: [UseCaseExerciseScenario.md](UseCaseExerciseScenario.md).
 
 ## Disclaimer
 **Notice that LLMs might give you answers with hallucination!**
